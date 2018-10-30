@@ -1,2 +1,27 @@
 # go-examples-plus
-go examples code
+## 源码目录 资料
+
+- 基本类型、流程控制
+    + [Hello Golang](/types-process/Go_hello.go)
+    + [bool类型](/types-process/Go_bool类型.go)
+    + [break和continue的区别](/types-process/Go_break和continue的区别.go)
+    + [for的使用](/types-process/Go_for的使用.go)
+    + [goto的使用](/types-process/Go_goto的使用.go)
+    + [if的使用](/types-process/Go_if的使用.go)
+    + [iota枚举](/types-process/Go_iota枚举.go)
+    + [Printf和Println的区别](/types-process/Go_Printf和Println的区别.go)
+    + [range的使用](/types-process/Go_range的使用.go)
+    + [switch使用](/types-process/Go_switch使用.go)
+    + [变量的使用](/types-process/Go_变量的使用.go)
+    + [复数类型](/types-process/Go_复数类型.go)
+    + [多个变量或常量的定义](/types-process/Go_多个变量或常量的定义.go)
+    + [多重赋值和匿名变量](/types-process/Go_多重赋值和匿名变量.go)
+    + [字符串类型](/types-process/Go_字符串类型.go)
+    + [字符和字符串的区别](/types-process/Go_字符和字符串的区别.go)
+    + [字符类型](/types-process/Go_字符类型.go)
+    + [常量的使用](/types-process/Go_常量的使用.go)
+    + [格式化输出](/types-process/Go_格式化输出.go)
+    + [浮点型](/types-process/Go_浮点型.go)
+    + [类型别名](/types-process/Go_类型别名.go)
+    + [类型转换](/types-process/Go_类型转换.go)
+    + [运算符](/types-process/Go_运算符.go)
