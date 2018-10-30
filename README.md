@@ -44,6 +44,25 @@
 	+ [闭包捕获外部变量的特点](/functions/Go_闭包捕获外部变量的特点.go)
 	+ [多目录工厂管理](/functions/src/main.go)
 
+- 复合类型
+	+ [copy的使用](/compound_types/Go_copy的使用.go)
+	+ [map做函数参数](/compound_types/Go_map做函数参数.go)
+	+ [map的基本使用](/compound_types/Go_map的基本使用.go)
+	+ [切片和底层数组关系](/compound_types/Go_切片和底层数组关系.go)
+	+ [切片的创建](/compound_types/Go_切片的创建.go)
+	+ [切片的截取](/compound_types/Go_切片的截取.go)
+	+ [切片的长度和容量](/compound_types/Go_切片的长度和容量.go)
+	+ [指针基本操作](/compound_types/Go_指针基本操作.go)
+	+ [数组做函数参数](/compound_types/Go_数组做函数参数.go)
+	+ [数组指针做函数参数](/compound_types/Go_数组指针做函数参数.go)
+	+ [数组的基本使用](/compound_types/Go_数组的基本使用.go)
+	+ [结构体作为函数参数](/compound_types/Go_结构体作为函数参数.go)
+	+ [结构体成员的使用：普通变量](/compound_types/Go_结构体成员的使用：普通变量.go)
+	+ [结构体指针变量初始化](/compound_types/Go_结构体指针变量初始化.go)
+	+ [结构体普通变量初始化](/compound_types/Go_结构体普通变量初始化.go)
+	+ [结构体比较和赋值](/compound_types/Go_结构体比较和赋值.go)
+	+ [随机数的使用](/compound_types/Go_随机数的使用.go)
+
 ### 问题建议
 
 - 联系我的邮箱：ilovey_hwy@163.com
