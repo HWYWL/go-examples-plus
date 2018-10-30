@@ -1,5 +1,5 @@
 # go-examples-plus
-## 源码目录 资料
+### 源码目录 资料
 
 - 基本类型、流程控制
     + [Hello Golang](/types-process/Go_hello.go)
@@ -25,3 +25,27 @@
     + [类型别名](/types-process/Go_类型别名.go)
     + [类型转换](/types-process/Go_类型转换.go)
     + [运算符](/types-process/Go_运算符.go)
+
+- 函数、工程管理
+	+ [defer和匿名函数结合使用](/functions/Go_defer和匿名函数结合使用.go)
+	+ [defer的使用](/functions/Go_defer的使用.go)
+	+ [一个返回值](/functions/Go_一个返回值.go)
+	+ [不定参数类型](/functions/Go_不定参数类型.go)
+	+ [函数类型](/functions/Go_函数类型.go)
+	+ [函数递归调用的流程](/functions/Go_函数递归调用的流程.go)
+	+ [匿名函数和闭包](/functions/Go_匿名函数和闭包.go)
+	+ [回调函数](/functions/Go_回调函数.go)
+	+ [多个返回值](/functions/Go_多个返回值.go)
+	+ [局部变量](/functions/Go_局部变量.go)
+	+ [无参无返回值函数的使用](/functions/Go_无参无返回值函数的使用.go)
+	+ [普通函数的调用流程](/functions/Go_普通函数的调用流程.go)
+	+ [普通参数列表](/functions/Go_普通参数列表.go)
+	+ [有参有返回值](/functions/Go_有参有返回值.go)
+	+ [闭包捕获外部变量的特点](/functions/Go_闭包捕获外部变量的特点.go)
+	+ [多目录工厂管理](/functions/src/main.go)
+
+### 问题建议
+
+- 联系我的邮箱：ilovey_hwy@163.com
+- 我的博客：http://www.hwy.ac.cn
+- GitHub：https://github.com/HWYWL
