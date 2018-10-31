@@ -63,6 +63,19 @@
 	+ [结构体比较和赋值](/compound-types/Go_结构体比较和赋值.go)
 	+ [随机数的使用](/compound-types/Go_随机数的使用.go)
 
+- 面向对象
+	+ [为结构体类型添加方法](/object-oriented/Go_为结构体类型添加方法.go)
+	+ [匿名字段初始化](/object-oriented/Go_匿名字段初始化.go)
+	+ [同名字段](/object-oriented/Go_同名字段.go)
+	+ [成员的操作](/object-oriented/Go_成员的操作.go)
+	+ [接口的定义和实现](/object-oriented/Go_接口的定义和实现.go)
+	+ [方法的继承](/object-oriented/Go_方法的继承.go)
+	+ [方法的重写](/object-oriented/Go_方法的重写.go)
+	+ [类型断言：if](/object-oriented/Go_类型断言：if.go)
+	+ [类型断言：switch](/object-oriented/Go_类型断言：switch.go)
+	+ [结构体指针类型匿名字段](/object-oriented/Go_结构体指针类型匿名字段.go)
+	+ [非结构体匿名字段](/object-oriented/Go_非结构体匿名字段.go)
+
 ### 问题建议
 
 - 联系我的邮箱：ilovey_hwy@163.com
